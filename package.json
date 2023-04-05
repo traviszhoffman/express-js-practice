@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/traviszhoffman/express-js-practice#readme",
   "dependencies": {
+    "ejs": "^3.1.9",
     "express": "^4.18.2"
   },
   "devDependencies": {
