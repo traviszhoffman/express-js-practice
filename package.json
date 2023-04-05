@@ -1,0 +1,26 @@
+{
+  "name": "express-js-practice",
+  "version": "1.0.0",
+  "description": "express js practice for BYUB job",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/traviszhoffman/express-js-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/traviszhoffman/express-js-practice/issues"
+  },
+  "homepage": "https://github.com/traviszhoffman/express-js-practice#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
